@@ -1,4 +1,5 @@
 <?php
+//Loading the basic app
 
 require_once __DIR__ . '/../vendor/autoload.php';
 
